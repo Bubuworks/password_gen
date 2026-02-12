@@ -17,4 +17,4 @@ A simple command-line password generator written in Kotlin.
 ./gradlew run
 
 
-Note: This project is mostly just an experiment however it is functional.
+Note: This project is not maintained.
